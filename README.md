@@ -1,7 +1,7 @@
 # imc-api
 Node IMC Calculator API
 
-# Simple Node API that calculates IMC.
+### A simple Node API that calculates IMC.
 
 # Installation
 
